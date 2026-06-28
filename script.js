@@ -49,3 +49,21 @@ var obj={
 obj.name, obj[name]*
 
 Object.freeze(obj): ab hium value change nhi kar sakte */
+
+/*this give the length of function because at the end a function is an object and the length of function is the number of parameters in it 
+function abcd(a,b,c){};
+console.log(abcd.length)*/
+
+
+// async js coding 
+/*line by line code chale use kehte h synchronous, jo bhi code async nature ka use side stack m bhejdo aur us code ko chalao jo sync nature ka ho aur jab poora synvc code chal jaaye to check karo side stack wla async code chla ya nhi agr vo chal gaya h to use main stack m le aao */
+
+
+/*async function abcd(){
+ var blob = await fetch (`https://randomuser.me/api/`);
+ var ans = await blob.json();
+ console.log(ans);
+
+}
+
+abcd()*/

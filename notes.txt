@@ -205,6 +205,26 @@ http protocol: yehi vo rule h jisko follow kare bina aap internet p na kuch bhej
  server.listen(3000);
 
 
+ PART-3
+ *npm understanding 
+
+npm- node package manager 
+
+node js core m jo installed aata h they are modules jo hum npm se download karte h vo hota h package 
+
+
+
+
+
+
+
+ *intalling and unisntalling anything basics and advance
+ *understanding node_modues
+ *dependencies
+ *devdependencies
+ *scripts- understanding default svript path and custom script 
+
+
 
 
 

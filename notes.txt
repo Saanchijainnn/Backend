@@ -74,11 +74,11 @@ abcd()
 
 
 PART-2
+*Node.js basics
+*introduction to node.js
+*installing node.js and npm.
 
 
-Node.js basics
-introduction to node.js
-installing node.js and npm.
 
 node js is not a programming language not a technology not a framework not a software 
 this is a js runtime environment 
@@ -97,23 +97,25 @@ hum js ka code likhenge jo i wrapper layer of js receive karegi vo code v8 ke cp
 v8 wrapped in js is called node.js 
 
 
-nodjs is a js runtime environment */
+nodjs is a js runtime environment 
 
 
-node and npm
-working with node and npm 
-npm init
-node basic usage 
+*node and npm
+*working with node and npm 
+*npm init
+*node basic usage 
 
 
 node and npm : npm ek jagah h jaha log apne code packages ko upload karte h aur log unhe borrow kar sakte h 
  
+ package.json : jo bhi hum create kar rahe h uska poora lekha jhoka is file m hota h 
+ 
+ npm init: se humne package.jason create ki h 
  
  
- 
- 
- 
- 
+ *working with modules
+*file system soperations 
+*understanding HHTP module
 
 
 
@@ -135,7 +137,4 @@ node and npm : npm ek jagah h jaha log apne code packages ko upload karte h aur 
 
 
 
-//working with modules
-//file system soperations 
-//understanding HHTP module
 

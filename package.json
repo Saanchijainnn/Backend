@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/Saanchijainnn/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/Saanchijainnn/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saanchijainnn/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Saanchi Jain",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

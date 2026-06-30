@@ -212,17 +212,23 @@ npm- node package manager
 
 node js core m jo installed aata h they are modules jo hum npm se download karte h vo hota h package 
 
+*installing and unisntalling anything basics and advance
 
+install karne k liye  npm i packagekanaam 
+uninstall karne k npm uninstall packagekanaam 
+hum particular version ko bhi install kar sakte h 
 
+*understanding node_modules
+*dependencies : packages and packages ki dependencies 
+*devdependencies : aise packages jo sirf devlopment m kaam aayenge baad m jab kaam ho jaayega tab unki zaroorat nhi h 
 
+*scripts- understanding default script path and custom script
 
-
-
- *intalling and unisntalling anything basics and advance
- *understanding node_modues
- *dependencies
- *devdependencies
- *scripts- understanding default svript path and custom script 
+ 
+ 
+ 
+ 
+  
 
 
 

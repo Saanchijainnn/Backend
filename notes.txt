@@ -224,7 +224,19 @@ hum particular version ko bhi install kar sakte h
 
 *scripts- understanding default script path and custom script
 
+
+
+PART - 4 
+*Express.js Framework :
+*Introduction to Express.js
+
+express js ek npm package h 
+expess ek framework h 
+framework : framework ek flow deta h 
+
+it manages everything from receiveing the request and giving the response  
  
+ *Setting up basic express application 
  
  
  
@@ -240,6 +252,11 @@ hum particular version ko bhi install kar sakte h
 
 
 
+
+*Routing 
+*Middleware 
+*Request and response handling 
+*Error handling
 
 
 
